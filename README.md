@@ -4,6 +4,28 @@ It's that time of year for the Advent of Code to start again! This is my first y
 
 If you'd like to work on it as well, be sure to head over to https://adventofcode.com
 
-----
+---
 
-As I've found out with @pupcus, it seems that everyone's input is different. So, as a result, I thought I'd share every day (and what I see) as well as the input on a separate branch called "vision". This will hopefully make this make more sense.
+As I discovered with @pupcus, inputs are different across users of AoC. As such, I've made a separate branch called "vision" which you can check out-- wait a minute... you're already here!
+
+---
+
+I've created a private leaderboard for people to compete with me. Use the code `472595-c912363c` if you'd like to join.
+
+---
+
+# All years
+
+## Order that the years were done on AoC
+
+Year 2015 (n/a)
+
+Year 2016 (n/a)
+
+Year 2017 (n/a)
+
+[Year 2018](https://github.com/jbmagination/adventofcode/tree/2018)
+
+## Order that I did the years
+
+[Year 2018](https://github.com/jbmagination/adventofcode/tree/2018)
