@@ -10,7 +10,9 @@ As I discovered with @pupcus, inputs are different across users of AoC. As such,
 
 ---
 
-I've created a private leaderboard for people to compete with me. Use the code `472595-c912363c` if you'd like to join.
+I've created a private leaderboard for people to compete with us. Use the code `472595-c912363c` if you'd like to join.
+
+*Also, if it's not obvious, the name that we are under is `jbmagination`.*
 
 ---
 
