@@ -29,3 +29,7 @@ Year 2017 (n/a)
 ## Order that I did the years
 
 [Year 2018](https://github.com/jbmagination/adventofcode/tree/2018)
+
+---
+
+Want to return to the [landing](https://github.com/jbmagination/adventofcode/tree/landing) branch?
